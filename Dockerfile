@@ -10,6 +10,6 @@ COPY . /app
 # Install app dependencies
 RUN npm install
 
-CMD [ "npm", "start" ]
+CMD [ "npm", "run", "prod" ]
 
 EXPOSE 3000
