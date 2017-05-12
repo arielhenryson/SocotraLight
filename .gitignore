@@ -1,0 +1,15 @@
+log
+
+# Dependency directories
+node_modules
+
+#build folder
+.build
+
+.idea
+.temp
+
+#mac file
+.DS_Store
+errorLog.log
+npm-debug.log

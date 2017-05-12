@@ -1,0 +1,20 @@
+{
+  "name": "socotralight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./.build/main.js"
+  },
+  "author": "Ariel Henryson",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^3.5.2",
+    "@types/express": "^4.0.35",
+    "@types/node": "^7.0.18",
+    "body-parser": "^1.17.1",
+    "compression": "^1.6.2",
+    "express": "^4.15.2"
+  }
+}
