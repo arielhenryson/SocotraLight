@@ -1,9 +1,11 @@
 import { Server } from "./core/main";
 import { config } from "./config/config";
 
+const Sequelize = require("sequelize");
+
 
 function extend(app) {
-    // console.log(__dirname);
+    console.log("d")
 }
 
 

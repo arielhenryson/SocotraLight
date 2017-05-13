@@ -18,6 +18,7 @@
     "compression": "^1.6.2",
     "express": "^4.15.2",
     "forever": "^0.15.3",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "sequelize": "^3.30.4"
   }
 }
